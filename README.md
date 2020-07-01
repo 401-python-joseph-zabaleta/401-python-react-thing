@@ -2,12 +2,14 @@
 
 ## Open Git Pull Requests  
  
+[https://github.com/joseph-zabaleta/react-thing/pull/1](https://github.com/joseph-zabaleta/react-thing/pull/1)  
+
 ## Overview  
 
 Create a ReactJS web application that displays a list of things, and allows creating new things.
 
 ## Feature Tasks and Requirements  
-- [] Create a web app with a top level App component
+- [x] Create a web app with a top level App component
   - App component should…
     - [x] have `thingList` data stored in its state.
     - render 3 nested components
